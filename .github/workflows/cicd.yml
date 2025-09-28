@@ -8,7 +8,7 @@ on:
     branches: [ "main" ]
 
 env:
-  IMAGE_NAME: raniakashkash5/location-microservice
+  IMAGE_NAME: raniakashkash05/location-microservice
 
 jobs:
   build:
